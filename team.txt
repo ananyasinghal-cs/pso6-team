@@ -1,3 +1,5 @@
 Team members: hudsoncote and ananyasinghal-cs
+
 Favorite programming language: TBD
-Team motto: This too shall pass
+
+Team motto: we love cs193
